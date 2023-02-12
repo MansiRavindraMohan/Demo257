@@ -7,7 +7,8 @@
             //flipCoin.CalculatePercentage();
             //TableofTwo.PowerofTwo(); 
             Harmonic.numberharmonic();
-            
+            //PrimeFactor.FactorPrime();
+
             //int num = 7;
             //double num1 = 10.6;
             //bool val = true;
